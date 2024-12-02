@@ -1,6 +1,6 @@
 # MACS40123 LTR3 Project Repository
 
-Welcome to the repository for MACS40123 LTR3! This project explores key computational methods in time-series prediction and causal inference. Below is a brief guide to the files and their corresponding sections.
+Welcome to the repository for MACS40123 LTR3! This project explores computational methods in time-series prediction and causal inference. Below is a brief guide to the files and their corresponding sections.
 
 ## Sections and Files
 
